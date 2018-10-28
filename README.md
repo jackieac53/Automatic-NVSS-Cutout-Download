@@ -4,3 +4,5 @@ This simple Python-based script (to be executed on UNIX Terminal) will automatic
 !! WARNING !!
 Please make sure there are no other files named "postage.pl" in the same directory.
 Otherwise, it will be overwritten.
+
+Please change the settings within the Python script itself
